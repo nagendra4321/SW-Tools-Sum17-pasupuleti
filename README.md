@@ -4,6 +4,6 @@ FirstName: Nagendra Babu
 
 LastName: Pasupuleti 
 
-![Nagendra Babu Pasupuleti](http://i64.tinypic.com/2rhw742.jpg)
+![Nagendra Babu Pasupuleti](http://i63.tinypic.com/von6ae.jpg)
 
 
